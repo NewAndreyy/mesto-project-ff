@@ -30,3 +30,5 @@ function deleteCard(el) {
 initialCards.forEach((item) => {
   cardItems.appendChild(createCard(item, deleteCard));
 });
+//asdsa asdas /asda
+///asdasd
